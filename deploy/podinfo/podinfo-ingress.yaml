@@ -17,7 +17,7 @@ spec:
   - host: training-user-1.training.weave.works
     http:
       paths:
-      - path: /podinfo
+      - path: /
         backend:
           serviceName: podinfo
-          servicePort: 9898
+          servicePort: 3000
