@@ -1,0 +1,1 @@
+{"jobID":"19ce1b26-1361-c2f4-cdb4-6404c75e31e0","spec":{"type":"policy","cause":{"Message":"","User":"Ahmed Abu-Sido \u003cabusido@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"tag.podinfod":"semver:\u003e3.0.1"},"remove":null}}},"result":null}
