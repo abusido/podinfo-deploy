@@ -1,0 +1,1 @@
+{"jobID":"fa6c0c83-885f-2ef1-41f0-dabef9786ab4","spec":{"type":"policy","cause":{"Message":"","User":"Ahmed Abu-Sido \u003cabusido@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
